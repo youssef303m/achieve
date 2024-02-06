@@ -1,5 +1,4 @@
 /* 
-  Make login/register return a JWT instead of the user
   TODO: Protect(JWT) all routes by roles (except login and register)
   TODO: Make default avatar images for user to choose from
 */
